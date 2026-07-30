@@ -31,7 +31,6 @@ Output:
 Discount Applied
 */
 
-// TODO: Ask for purchase amount
 const amount = Number(prompt("Enter your purchase amount:")); // "2000" -> 2000
 
 if (isNaN(amount)) {
